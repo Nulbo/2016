@@ -1,5 +1,5 @@
 package bit0906;
-
+ 
 public class TypeCast {
 	
 	public static void main(String[] args ){ 
