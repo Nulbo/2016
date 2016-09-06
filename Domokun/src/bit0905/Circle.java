@@ -12,10 +12,10 @@ public class Circle {
 	double area; 
 	      
 	Circle c = new Circle(); 
-	circle.radius = 5; 
-	circle.area = 5 * 5 * 3.14; 
+	//circle.radius = 5; 
+	//circle.area = 5 * 5 * 3.14; 
 
-	System.out.println(circle.area);
+	//System.out.println(circle.area);
 	
 	String str1 = new String("Hello World"); 
 	System.out.println( str1 ); 
